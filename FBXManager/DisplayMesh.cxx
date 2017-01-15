@@ -91,6 +91,7 @@ void DisplayControlsPoints(FbxMesh* pMesh)
 					Display3DVector(header, leNormals->GetDirectArray().GetAt(i));
 			}
         }
+
     }
 
     DisplayString("");
